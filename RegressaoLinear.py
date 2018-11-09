@@ -1,3 +1,8 @@
+#TRABALHO DE TÓPICOS AVANÇADOS DE BANCO DE DADOS
+#ALUNOS: LEONARDO MARCO | MARIA CLARA | MARIANE LUIZA
+#PROF: FELIPE LEANDRO
+#CURSO: CIÊNCIA DA COMPUTAÇÃO
+
 import csv
 import numpy as np
 import matplotlib.pyplot as plt
